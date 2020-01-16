@@ -7,8 +7,7 @@
 - Installation - Prometheus, Alert Manager and Grafana
 - Configuration - Prometheus, Alert Manager and Grafana
 - Adding Node Exporter Agent to Target Servers
-- Configuring EC2 Auto Discovery for adding targets based on a Specific Regex
-- Manually adding a target to Prometheus
+- Adding Nodes to Prometheus
 - Installing and Configuring Blackbox to probe Uptime
 - Configuring Alerts in Alert Manager
-- Exporting Metrics to Grafana
+- Exporting Metrics to Grafana and Adding Dashboards
