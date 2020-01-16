@@ -2,7 +2,7 @@
 
 - Installing Prometheus:
   Switch to Root User (sudo su -) and Download the following script:
-  `https://raw.githubusercontent.com/in4it/prometheus-course/master/scripts/1-install.sh`
+  https://raw.githubusercontent.com/awasim129/prometheus/master/scripts/1-install.sh
   
   Verify the version in the script and replace it with the latest version of Prometheus. Versions can be found here: 
   https://prometheus.io/download/
@@ -14,7 +14,7 @@
 - Installing AlertManager:
 
    As a root User, download the following script:
-   https://raw.githubusercontent.com/in4it/prometheus-course/master/scripts/4-install-alertmanager.sh
+   https://raw.githubusercontent.com/awasim129/prometheus/master/scripts/4-install-alertmanager.sh
 
    Run the following command:
    `chmod +x 4-install-alertmanager.sh`
