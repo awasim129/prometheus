@@ -1,0 +1,15 @@
+# Configuring Grafana
+
+## Exporting Metrics to Grafana
+
+- Log into Grafana: http://yourserver:3000 with admin Credentials.
+- Click on Settings Icon and head to Data Sources. 
+- Choose Prometheus as a Data Source, enter your Prometheus Server Details and click on Save & Test.
+- Upon Verification, your Prometheus Server will be added as a Data Source.
+
+
+## Importing Dashboards
+
+- Go to Dashboards > Import.
+- Paste and Upload the JSON files and click on Import.
+- Configure Variables from Settings according to your requirements.
