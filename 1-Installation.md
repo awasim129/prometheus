@@ -23,8 +23,8 @@
 - Installing Grafana:
 
    As a root User, download the following script:
-   https://raw.githubusercontent.com/in4it/prometheus-course/master/scripts/4-install-alertmanager.sh
+   https://raw.githubusercontent.com/awasim129/prometheus/master/scripts/3-install-grafana.sh
 
    Run the following command:
-   `chmod +x 4-install-alertmanager.sh`
-   `./4-install-alertmanager.sh`
+   `chmod +x 3-install-grafana.sh`
+   `./3-install-grafana.sh`
